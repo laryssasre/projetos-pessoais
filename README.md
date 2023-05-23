@@ -1,2 +1,2 @@
 # Projetos-Pessoais
-Nesse repositório subo alguns arquivos em Python de scripts desenvolvidos no ambiente de trabalho e que podem ser utilizados ou reaproveitados no futuro. 
+Neste repositório há alguns arquivos de scripts desenvolvidos para uso no trabalho, mas que poderão ser reaproveitados e/ou refatorados em um futuro próximo.
